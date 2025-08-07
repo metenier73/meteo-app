@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/metenier73.github.io/meteo-app/static/css/main.6189f32b.css",
+    "main.js": "/metenier73.github.io/meteo-app/static/js/main.d5286251.js",
+    "static/js/453.2c7868a1.chunk.js": "/metenier73.github.io/meteo-app/static/js/453.2c7868a1.chunk.js",
+    "static/media/logo.svg": "/metenier73.github.io/meteo-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/metenier73.github.io/meteo-app/index.html",
+    "main.6189f32b.css.map": "/metenier73.github.io/meteo-app/static/css/main.6189f32b.css.map",
+    "main.d5286251.js.map": "/metenier73.github.io/meteo-app/static/js/main.d5286251.js.map",
+    "453.2c7868a1.chunk.js.map": "/metenier73.github.io/meteo-app/static/js/453.2c7868a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6189f32b.css",
+    "static/js/main.d5286251.js"
+  ]
+}
